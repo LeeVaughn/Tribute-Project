@@ -1,3 +1,22 @@
 .jumbotron {
     margin-bottom: 0;
 }
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+.logo {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.blockquote {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.author {
+    margin-top: 40px;
+}
